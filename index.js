@@ -54,7 +54,7 @@ function isEmpty(obj) {
 }
 console.log(isEmpty(myObject1));
 console.log(isEmpty(myObject2));
-// ===================================================
+// ==================================================
 const movies = [
   {
     title: "The Shawshank Redemption",
